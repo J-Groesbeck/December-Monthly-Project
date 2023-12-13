@@ -26,3 +26,8 @@ footer {
     padding: 20px;
     text-align: center;
 }
+
+.bold {
+    font-weight: 700;
+    font-style: italic;
+}
