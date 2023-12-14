@@ -31,3 +31,23 @@ footer {
     font-weight: 700;
     font-style: italic;
 }
+
+.purple,
+.btn-primary {
+    background-color: #6e2cf3 !important;
+}
+
+.btn-primary {
+    border-color: #6e2cf3 !important;
+}
+
+.btn-primary:hover {
+    background-color: #6e2cf3 !important;
+
+}
+
+body, 
+html,
+main {
+    background-color: #212529 !important;
+}
